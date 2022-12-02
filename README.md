@@ -1,4 +1,4 @@
-# Welcome! :earth_americas:
+## Welcome! :earth_americas:
 ## My name is [Ekaterina](https://www.linkedin.com/in/eoleneva/), I'm Software QA Automation Engineer from San Diego, CA  <img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width = "70">
 
 <div align="center">
