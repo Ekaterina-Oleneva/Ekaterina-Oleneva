@@ -14,11 +14,10 @@ Got bugs?? Call me [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blu
   <img src="https://media.giphy.com/media/YqE4uqYNO7QAOY6yj8/giphy.gif">
   <div>    
     
-<div align="center">
-</div>
-  <div align="center">
- ⬇️ Languages and Tools ⬇️
-  <div>  
+
+    
+    
+    
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
