@@ -6,7 +6,7 @@
   <div align="center">
   <img src="https://www.fusionoh.com/documents/cipd-survey-2020/presenteeism-is-working-when-you-are-unwell-4055.jpg">
   <div>
-      ⬇️: Languages and Tools :
+      ⬇️ Languages and Tools ⬇️
   <div>
  
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
