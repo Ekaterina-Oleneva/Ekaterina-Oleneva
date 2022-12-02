@@ -6,6 +6,8 @@
   <div align="center">
   <img src="https://www.fusionoh.com/documents/cipd-survey-2020/presenteeism-is-working-when-you-are-unwell-4055.jpg">
   <div>
+     ## :hammer_and_wrench: Languages and Tools :
+  <div>
   Languages and tools:
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
