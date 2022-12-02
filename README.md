@@ -18,6 +18,7 @@ Got bugs?? Call me [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blu
    <p>⬇️ Languages and Tools ⬇️
      
    </p>
+    </p>
   <div>
   <div> 
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
