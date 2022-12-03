@@ -7,7 +7,8 @@
   <img src="https://www.fusionoh.com/documents/cipd-survey-2020/presenteeism-is-working-when-you-are-unwell-4055.jpg">
   <div>
     
-Got bugs?? :lady_beetle: I can help you here [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eoleneva/)
+Got bugs?? :lady_beetle: I can help you here [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eoleneva/) [![Gmail Badge](https://img.shields.io/badge/-katt_oleneva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katt.oleneva@gmail.com)](mailto:katt.oleneva@gmail.com)
+
 <div align="center">
 </div>
   <div align="center">
